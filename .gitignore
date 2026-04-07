@@ -73,3 +73,504 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/_Materials/Untidy/ZenGarden_Mat.mat.meta
+Assets/_Materials/Untidy/ZenGarden_Mat.mat
+Assets/_Materials/Untidy/VIPDomeChip_Mat.mat.meta
+Assets/_Materials/Untidy/VIPDomeChip_Mat.mat
+Assets/_Materials/Untidy/VIPDome_Mat.mat.meta
+Assets/_Materials/Untidy/VIPDome_Mat.mat
+Assets/_Materials/Untidy/Tubes_Mat.mat.meta
+Assets/_Materials/Untidy/Tubes_Mat.mat
+Assets/_Materials/Untidy/Trunk03_Mat.mat.meta
+Assets/_Materials/Untidy/Trunk03_Mat.mat
+Assets/_Materials/Untidy/Trunk02_Mat.mat.meta
+Assets/_Materials/Untidy/Trunk02_Mat.mat
+Assets/_Materials/Untidy/Trunk01_Mat.mat.meta
+Assets/_Materials/Untidy/Trunk01_Mat.mat
+Assets/_Materials/Untidy/TerrainWalls_Mat.mat.meta
+Assets/_Materials/Untidy/TerrainWalls_Mat.mat
+Assets/_Materials/Untidy/TerrainPath_Mat.mat.meta
+Assets/_Materials/Untidy/TerrainPath_Mat.mat
+Assets/_Materials/Untidy/TerrainFADE_Mat.mat.meta
+Assets/_Materials/Untidy/TerrainFADE_Mat.mat
+Assets/_Materials/Untidy/Terrain_Mat.mat.meta
+Assets/_Materials/Untidy/Terrain_Mat.mat
+Assets/_Materials/Untidy/TeleporterRoot_Mat.mat.meta
+Assets/_Materials/Untidy/TeleporterRoot_Mat.mat
+Assets/_Materials/Untidy/Teleporter_Mat.mat.meta
+Assets/_Materials/Untidy/Teleporter_Mat.mat
+Assets/_Materials/Untidy/SRLogo_Mat.mat.meta
+Assets/_Materials/Untidy/SRLogo_Mat.mat
+Assets/_Materials/Untidy/Sphere03_Mat.mat.meta
+Assets/_Materials/Untidy/Sphere03_Mat.mat
+Assets/_Materials/Untidy/Sphere02_Mat.mat.meta
+Assets/_Materials/Untidy/Sphere02_Mat.mat
+Assets/_Materials/Untidy/Sphere01_Mat.mat.meta
+Assets/_Materials/Untidy/Sphere01_Mat.mat
+Assets/_Materials/Untidy/SocialsHolder_Mat.mat.meta
+Assets/_Materials/Untidy/SocialsHolder_Mat.mat
+Assets/_Materials/Untidy/Socials_Mat.mat.meta
+Assets/_Materials/Untidy/Socials_Mat.mat
+Assets/_Materials/Untidy/Signbook_Mat.mat.meta
+Assets/_Materials/Untidy/Signbook_Mat.mat
+Assets/_Materials/Untidy/Roots_Mat.mat.meta
+Assets/_Materials/Untidy/Roots_Mat.mat
+Assets/_Materials/Untidy/POAP_Mat.mat.meta
+Assets/_Materials/Untidy/POAP_Mat.mat
+Assets/_Materials/Untidy/PMLogo_Mat.mat.meta
+Assets/_Materials/Untidy/PMLogo_Mat.mat
+Assets/_Materials/Untidy/PlatformPattern_Mat.mat.meta
+Assets/_Materials/Untidy/PlatformPattern_Mat.mat
+Assets/_Materials/Untidy/PlatformBase_Mat.mat.meta
+Assets/_Materials/Untidy/PlatformBase_Mat.mat
+Assets/_Materials/Untidy/PlatformBarrier_Mat.mat.meta
+Assets/_Materials/Untidy/PlatformBarrier_Mat.mat
+Assets/_Materials/Untidy/Path_Mat.mat.meta
+Assets/_Materials/Untidy/Path_Mat.mat
+Assets/_Materials/Untidy/Outline_Mat.mat.meta
+Assets/_Materials/Untidy/Outline_Mat.mat
+Assets/_Materials/Untidy/OSLogo_Mat.mat.meta
+Assets/_Materials/Untidy/OSLogo_Mat.mat
+Assets/_Materials/Untidy/Momus_Mat.mat.meta
+Assets/_Materials/Untidy/Momus_Mat.mat
+Assets/_Materials/Untidy/HoloTree_Mat.mat.meta
+Assets/_Materials/Untidy/HoloTree_Mat.mat
+Assets/_Materials/Untidy/HoloPot_Mat.mat.meta
+Assets/_Materials/Untidy/HoloPot_Mat.mat
+Assets/_Materials/Untidy/HoloPot02_Mat.mat.meta
+Assets/_Materials/Untidy/HoloPot02_Mat.mat
+Assets/_Materials/Untidy/HoloPOAP_Mat.mat.meta
+Assets/_Materials/Untidy/HoloPOAP_Mat.mat
+Assets/_Materials/Untidy/HoloBush_Mat.mat.meta
+Assets/_Materials/Untidy/HoloBush_Mat.mat
+Assets/_Materials/Untidy/HexagonVIP03_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonVIP03_Mat.mat
+Assets/_Materials/Untidy/HexagonVIP02_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonVIP02_Mat.mat
+Assets/_Materials/Untidy/HexagonVIP01_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonVIP01_Mat.mat
+Assets/_Materials/Untidy/HexagonSmall_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonSmall_Mat.mat
+Assets/_Materials/Untidy/HexagonMedium_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonMedium_Mat.mat
+Assets/_Materials/Untidy/HexagonLarge_Mat.mat.meta
+Assets/_Materials/Untidy/HexagonLarge_Mat.mat
+Assets/_Materials/Untidy/Gong_Mat.mat.meta
+Assets/_Materials/Untidy/Gong_Mat.mat
+Assets/_Materials/Untidy/Flowers_Mat.mat.meta
+Assets/_Materials/Untidy/Flowers_Mat.mat
+Assets/_Materials/Untidy/FloorPanelNumbers_Mat.mat.meta
+Assets/_Materials/Untidy/FloorPanelNumbers_Mat.mat
+Assets/_Materials/Untidy/FloorPanel_Mat.mat.meta
+Assets/_Materials/Untidy/FloorPanel_Mat.mat
+Assets/_Materials/Untidy/EntranceDoor_Mat.mat.meta
+Assets/_Materials/Untidy/EntranceDoor_Mat.mat
+Assets/_Materials/Untidy/DomeChip_Mat.mat.meta
+Assets/_Materials/Untidy/DomeChip_Mat.mat
+Assets/_Materials/Untidy/DomeBase_Mat.mat.meta
+Assets/_Materials/Untidy/DomeBase_Mat.mat
+Assets/_Materials/Untidy/CAWireframe_Mat.mat.meta
+Assets/_Materials/Untidy/CAWireframe_Mat.mat
+Assets/_Materials/Untidy/CALogo_Mat.mat.meta
+Assets/_Materials/Untidy/CALogo_Mat.mat
+Assets/_Materials/Untidy/Bush_Mat.mat.meta
+Assets/_Materials/Untidy/Bush_Mat.mat
+Assets/_Materials/Untidy/Branches02_Mat.mat.meta
+Assets/_Materials/Untidy/Branches02_Mat.mat
+Assets/_Materials/Untidy/Branches01_Mat.mat.meta
+Assets/_Materials/Untidy/Branches01_Mat.mat
+Assets/_Materials/Untidy/BioLights_Mat.mat.meta
+Assets/_Materials/Untidy/BioLights_Mat.mat
+Assets/_Materials/Untidy/Atlas01_Mat.mat.meta
+Assets/_Materials/Untidy/Atlas01_Mat.mat
+Assets/_Materials/Untidy/AltarHolo_Mat.mat.meta
+Assets/_Materials/Untidy/AltarHolo_Mat.mat
+Assets/_Materials/Untidy/Altar_Mat.mat.meta
+Assets/_Materials/Untidy/Altar_Mat.mat
+Assets/_Materials/Untidy.meta
+Assets/_Materials/Textures/Zen_Garden_albedo.tif.meta
+Assets/_Materials/Textures/Zen_Garden_albedo.tif
+Assets/_Materials/Textures/Trunk03_Albedo.tif.meta
+Assets/_Materials/Textures/Trunk03_Albedo.tif
+Assets/_Materials/Textures/Trunk02_Albedo.tif.meta
+Assets/_Materials/Textures/Trunk02_Albedo.tif
+Assets/_Materials/Textures/Trunk01_Albedo.tif.meta
+Assets/_Materials/Textures/Trunk01_Albedo.tif
+Assets/_Materials/Textures/Tex_Cable_Albedo.tif.meta
+Assets/_Materials/Textures/Tex_Cable_Albedo.tif
+Assets/_Materials/Textures/TerrainWalls_Albedo.tif.meta
+Assets/_Materials/Textures/TerrainWalls_Albedo.tif
+Assets/_Materials/Textures/Terrain_path_Albedo.tif.meta
+Assets/_Materials/Textures/Terrain_path_Albedo.tif
+Assets/_Materials/Textures/Terrain_Albedo.tif.meta
+Assets/_Materials/Textures/Terrain_Albedo.tif
+Assets/_Materials/Textures/Teleport_Root_Albedo.tif.meta
+Assets/_Materials/Textures/Teleport_Root_Albedo.tif
+Assets/_Materials/Textures/Teleport_Emissive.tif.meta
+Assets/_Materials/Textures/Teleport_Emissive.tif
+Assets/_Materials/Textures/Teleport_Albedo.tif.meta
+Assets/_Materials/Textures/Teleport_Albedo.tif
+Assets/_Materials/Textures/Sphere03_Emissive.tif.meta
+Assets/_Materials/Textures/Sphere03_Emissive.tif
+Assets/_Materials/Textures/Sphere03_Albedo.tif.meta
+Assets/_Materials/Textures/Sphere03_Albedo.tif
+Assets/_Materials/Textures/Sphere02_Emissive.tif.meta
+Assets/_Materials/Textures/Sphere02_Emissive.tif
+Assets/_Materials/Textures/Sphere02_Albedo.tif.meta
+Assets/_Materials/Textures/Sphere02_Albedo.tif
+Assets/_Materials/Textures/Sphere01_Emissive.tif.meta
+Assets/_Materials/Textures/Sphere01_Emissive.tif
+Assets/_Materials/Textures/Sphere01_Albedo.tif.meta
+Assets/_Materials/Textures/Sphere01_Albedo.tif
+Assets/_Materials/Textures/Socials_Albedo.tif.meta
+Assets/_Materials/Textures/Socials_Albedo.tif
+Assets/_Materials/Textures/SakuraFlower_Albedo.tif.meta
+Assets/_Materials/Textures/SakuraFlower_Albedo.tif
+Assets/_Materials/Textures/Roots_Albedo.tif.meta
+Assets/_Materials/Textures/Roots_Albedo.tif
+Assets/_Materials/Textures/polygonal mind logo plus text 1.png.meta
+Assets/_Materials/Textures/polygonal mind logo plus text 1.png
+Assets/_Materials/Textures/POAP_Albedo.tif.meta
+Assets/_Materials/Textures/POAP_Albedo.tif
+Assets/_Materials/Textures/PlatformPattern_Albedo.tif.meta
+Assets/_Materials/Textures/PlatformPattern_Albedo.tif
+Assets/_Materials/Textures/PlatformBase_Emissive.tif.meta
+Assets/_Materials/Textures/PlatformBase_Emissive.tif
+Assets/_Materials/Textures/PlatformBase_Albedo.tif.meta
+Assets/_Materials/Textures/PlatformBase_Albedo.tif
+Assets/_Materials/Textures/PlatformBarrier_albedo.tif.meta
+Assets/_Materials/Textures/PlatformBarrier_albedo.tif
+Assets/_Materials/Textures/Path_Emissive.tif.meta
+Assets/_Materials/Textures/Path_Emissive.tif
+Assets/_Materials/Textures/Path_Albedo.tif.meta
+Assets/_Materials/Textures/Path_Albedo.tif
+Assets/_Materials/Textures/Momus_texture.tif.meta
+Assets/_Materials/Textures/Momus_texture.tif
+Assets/_Materials/Textures/momus.tif.meta
+Assets/_Materials/Textures/momus.tif
+Assets/_Materials/Textures/HoloTree_albedo.tif.meta
+Assets/_Materials/Textures/HoloTree_albedo.tif
+Assets/_Materials/Textures/HoloPot_Albedo.tif.meta
+Assets/_Materials/Textures/HoloPot_Albedo.tif
+Assets/_Materials/Textures/HoloPOAP_albedo.tiff.meta
+Assets/_Materials/Textures/HoloPOAP_albedo.tiff
+Assets/_Materials/Textures/HoloBush_Albedo.tif.meta
+Assets/_Materials/Textures/HoloBush_Albedo.tif
+Assets/_Materials/Textures/Hexagon_VIP_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_VIP_Albedo.tif
+Assets/_Materials/Textures/Hexagon_VIP_02_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_VIP_02_Albedo.tif
+Assets/_Materials/Textures/Hexagon_VIP_01_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_VIP_01_Albedo.tif
+Assets/_Materials/Textures/Hexagon_S_Emissive.tif.meta
+Assets/_Materials/Textures/Hexagon_S_Emissive.tif
+Assets/_Materials/Textures/Hexagon_S_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_S_Albedo.tif
+Assets/_Materials/Textures/Hexagon_M_Emissive.png.meta
+Assets/_Materials/Textures/Hexagon_M_Emissive.png
+Assets/_Materials/Textures/Hexagon_M_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_M_Albedo.tif
+Assets/_Materials/Textures/Hexagon_L_Emissive.tif.meta
+Assets/_Materials/Textures/Hexagon_L_Emissive.tif
+Assets/_Materials/Textures/Hexagon_L_Albedo.tif.meta
+Assets/_Materials/Textures/Hexagon_L_Albedo.tif
+Assets/_Materials/Textures/Gong_Albedo.tif.meta
+Assets/_Materials/Textures/Gong_Albedo.tif
+Assets/_Materials/Textures/Entrance_Albedo.tif.meta
+Assets/_Materials/Textures/Entrance_Albedo.tif
+Assets/_Materials/Textures/Domes01_Albedo.tif.meta
+Assets/_Materials/Textures/Domes01_Albedo.tif
+Assets/_Materials/Textures/CryptoAvatars-logo.png.meta
+Assets/_Materials/Textures/CryptoAvatars-logo.png
+Assets/_Materials/Textures/ChipLines.tif.meta
+Assets/_Materials/Textures/ChipLines.tif
+Assets/_Materials/Textures/Branches02_Albedo.tif.meta
+Assets/_Materials/Textures/Branches02_Albedo.tif
+Assets/_Materials/Textures/Branches01_Albedo.tif.meta
+Assets/_Materials/Textures/Branches01_Albedo.tif
+Assets/_Materials/Textures/Atlas01_Albedo.tif.meta
+Assets/_Materials/Textures/Atlas01_Albedo.tif
+Assets/_Materials/Textures/AltarHolo_Albedo.tif.meta
+Assets/_Materials/Textures/AltarHolo_Albedo.tif
+Assets/_Materials/Textures/Altar_Albedo.tif.meta
+Assets/_Materials/Textures/Altar_Albedo.tif
+Assets/_Materials/Textures.meta
+Assets/_Materials/Glass.mat.meta
+Assets/ZDelete.meta
+Assets/ZDelete/Decimate.meta
+Assets/ZDelete/Decimate/Grid Master.meta
+Assets/ZDelete/Decimate/Grid Master/Docs.meta
+Assets/ZDelete/Decimate/Grid Master/Docs/Documentation.pdf
+Assets/ZDelete/Decimate/Grid Master/Docs/Documentation.pdf.meta
+Assets/ZDelete/Decimate/Grid Master/FBX.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Arch.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Arch.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Barrier.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Barrier.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Base.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Base.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Beam.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Beam.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Climb.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Climb.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Corner.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Corner.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Cube.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Cube.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Curve.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Curve.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Edge.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Edge.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Gear.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Gear.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Grid.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Grid.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Hex.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Hex.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Link.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Link.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Obelisk.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Obelisk.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Plinth.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Plinth.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Pyramid.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Pyramid.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Ramp.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Ramp.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Ring.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Ring.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Slope.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Slope.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Stairs.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Stairs.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Steps.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Steps.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Stud.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Stud.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Support.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Support.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Wedge.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Wedge.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Wing.fbx
+Assets/ZDelete/Decimate/Grid Master/FBX/GM-Wing.fbx.meta
+Assets/ZDelete/Decimate/Grid Master/Presets.meta
+Assets/ZDelete/Decimate/Grid Master/Presets/FBX-Import.preset
+Assets/ZDelete/Decimate/Grid Master/Presets/FBX-Import.preset.meta
+Assets/ZDelete/Decimate/Grid Master/Presets/Texture-Import.preset
+Assets/ZDelete/Decimate/Grid Master/Presets/Texture-Import.preset.meta
+Assets/ZDelete/Decimate/Grid Master/Textures.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-03.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-03.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-04.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Checkers-04.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Corners.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Corners.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-03.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Cross-03.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-Curved.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Edge-Curved.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-03.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-03.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-04.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-04.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-05.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-05.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-06.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Grid-06.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-03.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Icon-03.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Nodes.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Nodes.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-03.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-03.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-04.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-04.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-05.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-05.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-06.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-06.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-07.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-07.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-08.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-08.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-09.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-Pattern-09.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-1A.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-1A.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-1B.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-1B.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-2A.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-2A.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-2B.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-SCHEME-2B.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-UV-01.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-UV-01.png.meta
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-UV-02.png
+Assets/ZDelete/Decimate/Grid Master/Textures/GM-UV-02.png.meta
+Assets/ZDelete/Decimate/Grid Master/URP.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP.unity
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP.unity.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/LightingData.asset
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/LightingData.asset.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/ReflectionProbe-0.exr
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/ReflectionProbe-0.exr.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/ReflectionProbe-1.exr
+Assets/ZDelete/Decimate/Grid Master/URP/Demo/Demo-URP/ReflectionProbe-1.exr.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-01-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-01-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-02-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-02-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-03-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-03-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-04-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-04-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-05-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-05-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-06-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-06-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-07-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-07-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-08-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-08-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-09-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-09-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-10-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-10-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-11-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-11-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-12-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-12-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-13-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-13-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-14-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-14-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-15-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-15-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-16-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-16-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-17-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-17-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-18-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-18-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-19-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-19-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-20-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-20-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-21-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-21-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-22-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-22-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-23-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-23-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-24-URP.mat
+Assets/ZDelete/Decimate/Grid Master/URP/Materials/GM-Grid-24-URP.mat.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Grid Master.shadergraph
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Grid Master.shadergraph.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Grid Simple.shadergraph
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Grid Simple.shadergraph.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Sub Graphs.meta
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Sub Graphs/Blend Modes.shadersubgraph
+Assets/ZDelete/Decimate/Grid Master/URP/Shaders/Sub Graphs/Blend Modes.shadersubgraph.meta
+Assets/ZDelete/GM-Arch-URP.prefab
+Assets/ZDelete/GM-Arch-URP.prefab.meta
+Assets/ZDelete/GM-Barrier - URP.prefab
+Assets/ZDelete/GM-Barrier - URP.prefab.meta
+Assets/ZDelete/GM-Base-URP.prefab
+Assets/ZDelete/GM-Base-URP.prefab.meta
+Assets/ZDelete/GM-Beam - URP.prefab
+Assets/ZDelete/GM-Beam - URP.prefab.meta
+Assets/ZDelete/GM-Climb-URP.prefab
+Assets/ZDelete/GM-Climb-URP.prefab.meta
+Assets/ZDelete/GM-Corner-URP.prefab
+Assets/ZDelete/GM-Corner-URP.prefab.meta
+Assets/ZDelete/GM-Cube-URP.prefab
+Assets/ZDelete/GM-Cube-URP.prefab.meta
+Assets/ZDelete/GM-Curve-URP.prefab
+Assets/ZDelete/GM-Curve-URP.prefab.meta
+Assets/ZDelete/GM-Edge-URP.prefab
+Assets/ZDelete/GM-Edge-URP.prefab.meta
+Assets/ZDelete/GM-Gear - URP.prefab
+Assets/ZDelete/GM-Gear - URP.prefab.meta
+Assets/ZDelete/GM-Grid-URP.prefab
+Assets/ZDelete/GM-Grid-URP.prefab.meta
+Assets/ZDelete/GM-Hex-URP.prefab
+Assets/ZDelete/GM-Hex-URP.prefab.meta
+Assets/ZDelete/GM-Link - URP.prefab
+Assets/ZDelete/GM-Link - URP.prefab.meta
+Assets/ZDelete/GM-Obelisk-URP.prefab
+Assets/ZDelete/GM-Obelisk-URP.prefab.meta
+Assets/ZDelete/GM-Plinth - URP.prefab
+Assets/ZDelete/GM-Plinth - URP.prefab.meta
+Assets/ZDelete/GM-Pyramid-URP.prefab
+Assets/ZDelete/GM-Pyramid-URP.prefab.meta
+Assets/ZDelete/GM-Ramp-URP.prefab
+Assets/ZDelete/GM-Ramp-URP.prefab.meta
+Assets/ZDelete/GM-Ring-URP.prefab
+Assets/ZDelete/GM-Ring-URP.prefab.meta
+Assets/ZDelete/GM-Slope-URP.prefab
+Assets/ZDelete/GM-Slope-URP.prefab.meta
+Assets/ZDelete/GM-Stairs-URP.prefab
+Assets/ZDelete/GM-Stairs-URP.prefab.meta
+Assets/ZDelete/GM-Steps - URP.prefab
+Assets/ZDelete/GM-Steps - URP.prefab.meta
+Assets/ZDelete/GM-Stud-URP.prefab
+Assets/ZDelete/GM-Stud-URP.prefab.meta
+Assets/ZDelete/GM-Support-URP.prefab
+Assets/ZDelete/GM-Support-URP.prefab.meta
+Assets/ZDelete/GM-Wedge-URP.prefab
+Assets/ZDelete/GM-Wedge-URP.prefab.meta
+Assets/ZDelete/GM-Wing-URP.prefab
+Assets/ZDelete/GM-Wing-URP.prefab.meta
+Assets/ZDelete/Readme.asset
+Assets/ZDelete/Readme.asset.meta
+Assets/ZDelete/StarterAssets.meta
+Assets/ZDelete/StarterAssets/license.txt
+Assets/ZDelete/StarterAssets/license.txt.meta
+Assets/ZDelete/StarterAssets/Readme.asset
+Assets/ZDelete/StarterAssets/Readme.asset.meta
+Assets/ZDelete/StarterAssets/StarterAssets_Documentation_v1.1.pdf
+Assets/ZDelete/StarterAssets/StarterAssets_Documentation_v1.1.pdf.meta
+Assets/ZDelete/StarterAssets/TutorialInfo.meta
+Assets/ZDelete/StarterAssets/TutorialInfo/Icons.meta
+Assets/ZDelete/StarterAssets/TutorialInfo/Icons/ReadMeImg.PNG
+Assets/ZDelete/StarterAssets/TutorialInfo/Icons/ReadMeImg.PNG.meta
+Assets/ZDelete/TutorialInfo.meta
+Assets/ZDelete/TutorialInfo/Icons.meta
+Assets/ZDelete/TutorialInfo/Icons/URP.png
+Assets/ZDelete/TutorialInfo/Icons/URP.png.meta
+Assets/ZDelete/TutorialInfo/Layout.wlt
+Assets/ZDelete/TutorialInfo/Layout.wlt.meta
+Assets/ZDelete/TutorialInfo/Scripts.meta
+Assets/ZDelete/TutorialInfo/Scripts/Editor.meta
+Assets/ZDelete/TutorialInfo/Scripts/Editor/ReadmeEditor.cs
+Assets/ZDelete/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta
+Assets/ZDelete/TutorialInfo/Scripts/Readme.cs
+Assets/ZDelete/TutorialInfo/Scripts/Readme.cs.meta
